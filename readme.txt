@@ -6,4 +6,4 @@ clone a git document
 second compiled
 Creating a new branch is quick AND simple
 add merge
-
+bug分支
